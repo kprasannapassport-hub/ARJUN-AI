@@ -1,0 +1,19 @@
+# --- core ---
+ollama
+ddgs
+python-docx
+python-pptx
+fpdf2
+spotipy
+uharfbuzz
+
+# --- voice: hearing (Whisper) ---
+faster-whisper
+sounddevice
+numpy
+pygame
+
+# --- voice: speaking (Windows built-in voices) ---
+pyttsx3
+# edge-tts   (only if you switch TTS_ENGINE to "edge")
+# piper-tts  (only if you switch TTS_ENGINE to "piper")
