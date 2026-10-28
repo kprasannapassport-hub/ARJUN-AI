@@ -2,9 +2,8 @@
 
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/)
 [![Ollama](https://img.shields.io/badge/Powered%20By-Ollama-black.svg)](https://ollama.ai/)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
-An intelligent, local voice-controlled AI assistant running directly inside your terminal. Built with Python and powered by local LLMs via Ollama, ARJUN operates **100% offline without needing an active internet connection**.
+An intelligent, local voice-controlled AI assistant running directly inside your terminal. Powered by local LLMs via Ollama, ARJUN operates **100% offline without needing an active internet connection**.
 
 ---
 
@@ -39,3 +38,4 @@ An intelligent, local voice-controlled AI assistant running directly inside your
 2. Install [Ollama](https://ollama.ai/) and pull your preferred model:
    ```bash
    ollama pull llama3.2
+   
